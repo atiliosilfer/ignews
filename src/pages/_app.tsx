@@ -1,3 +1,5 @@
+// carregado sempre que o usuario troca de pagina
+
 import { AppProps } from 'next/app'
 
 function MyApp({ Component, pageProps }: AppProps) {
